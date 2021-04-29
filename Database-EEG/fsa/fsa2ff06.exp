@@ -1,0 +1,108 @@
+fileName	fsa2ff06
+subjectName	
+date	8/3/1999
+time	9:30
+
+Intertrial Duration	300  ms
+Image Presentation	30  ms
+Max Response Duration	1000  ms
+1	Fields	28052	C	0	12801	1000	1802
+2	Mexican Holiday	264000	C	0	12802	1000	1813
+3	Jersey Channel Islands	286018	R	1	12303	337	2145
+4	Jersey Channel Islands	286018	R	1	12304	403	1882
+5	Jersey Channel Islands	286018	R	1	12305	345	1915
+6	Patterns	11098	C	0	12806	1000	2070
+7	Java	217067	C	0	12807	1000	1928
+8	Land of the Pyramids	161099	C	0	12808	1000	1865
+9	Flowers	13046	C	0	12809	1000	1949
+10	Southeast Asia	76006	C	0	12810	1000	1971
+11	Jersey Channel Islands	286018	R	1	12311	400	1833
+12	France	116009	C	0	12812	1000	1990
+13	Great Silk Road	98000	C	0	12813	1000	1829
+14	Australia	69055	C	0	12814	1000	2137
+15	Jersey Channel Islands	286018	R	1	12315	368	1824
+16	Jersey Channel Islands	286018	R	1	12316	461	1918
+17	San Francisco	82050	C	0	12817	1000	2167
+18	Jersey Channel Islands	286018	R	1	12318	392	1948
+19	Rural france	174001	C	0	12819	1000	2110
+20	Jersey Channel Islands	286018	R	1	12320	305	1932
+21	Patterns	11012	C	0	12821	1000	2080
+22	Jersey Channel Islands	286018	R	1	12322	373	2138
+23	Jersey Channel Islands	286018	R	1	12323	347	2088
+24	Jersey Channel Islands	286018	R	1	12324	364	1923
+25	Prague	248050	C	0	12825	1000	1866
+26	Flowering potted plants	124027	C	0	12826	1000	1932
+27	Jersey Channel Islands	286018	R	1	12327	334	1987
+28	Jersey Channel Islands	286018	R	1	12328	387	1899
+29	Jersey Channel Islands	286018	R	1	12329	359	2131
+30	France	116067	C	0	12830	1000	1912
+31	Flowering potted plants	124080	C	0	12831	1000	1993
+32	San Francisco	82084	C	0	12832	1000	1860
+33	Jersey Channel Islands	286018	R	1	12333	420	2150
+34	Cactus flowers	51031	C	0	12834	1000	1915
+35	Canada's East Coast	138023	C	0	12835	1000	2115
+36	Jersey Channel Islands	286018	R	1	12336	427	2191
+37	Jersey Channel Islands	286018	R	1	12337	352	1998
+38	Jersey Channel Islands	286018	R	1	12338	360	2156
+39	Jersey Channel Islands	286018	R	1	12339	339	2131
+40	Candy backgrounds	96053	C	0	12840	1000	1809
+41	Bridges	22052	C	0	12841	1000	1857
+42	Northern california	48060	C	0	12842	1000	1858
+43	Images of thailande	147002	C	0	12843	1000	2001
+44	Patterns	11094	C	0	12844	1000	1809
+45	Jersey Channel Islands	286018	R	1	12345	428	2038
+46	English Country Gardens	131098	C	0	12846	1000	1804
+47	Ice and Iceberg	184069	C	0	12847	1000	2110
+48	Canada's East Coast	138015	C	0	12848	1000	2061
+49	Jersey Channel Islands	286018	R	1	12349	343	2109
+50	Kitchens & Bathrooms	364048	C	0	12850	1000	2084
+51	Jersey Channel Islands	286018	R	1	12351	390	2023
+52	Images of the death valley	143015	C	0	12852	1000	1883
+53	Jersey Channel Islands	286018	R	1	12353	435	2073
+54	Jersey Channel Islands	286018	R	1	12354	343	2038
+55	Jersey Channel Islands	286018	R	1	12355	409	2183
+56	Canada's East Coast	138012	C	0	12856	1000	2058
+57	The Alps in Spring	207043	C	0	12857	1000	2200
+58	Jersey Channel Islands	286018	R	1	12358	436	1898
+59	Jersey Channel Islands	286018	R	1	12359	324	2071
+60	Jersey Channel Islands	286018	R	1	12360	359	1919
+61	Jersey Channel Islands	286018	R	1	12361	396	1835
+62	Jersey Channel Islands	286018	R	1	12362	331	2109
+63	Washington state	266025	C	0	12863	1000	1999
+64	Russia, Georgia, Armenia	128090	C	0	12864	1000	2153
+65	Jersey Channel Islands	286018	R	1	12365	439	2008
+66	Jersey Channel Islands	286018	R	1	12366	413	2030
+67	English Country Gardens	131070	C	0	12867	1000	2182
+68	Jersey Channel Islands	286018	R	1	12368	454	2074
+69	Austria	126092	C	0	12869	1000	1936
+70	Jersey Channel Islands	286018	R	1	12370	377	1804
+71	Canada's East Coast	138090	C	0	12871	1000	2083
+72	Jersey Channel Islands	286018	R	1	12372	384	2196
+73	Jersey Channel Islands	286018	R	1	12373	519	2110
+74	France	116039	C	0	12874	1000	2100
+75	Jersey Channel Islands	286018	R	1	12375	492	1880
+76	Jersey Channel Islands	286018	R	1	12376	460	1858
+77	Jersey Channel Islands	286018	R	1	12377	425	2166
+78	Decorated pumpkins	234041	C	0	12878	1000	2114
+79	Washington state	266084	C	0	12879	1000	2036
+80	Caribbean	68011	C	0	12880	1000	2146
+81	American National Park	38064	C	0	12881	1000	2076
+82	Food	25082	C	0	12882	1000	1916
+83	Jersey Channel Islands	286018	R	1	12383	509	1838
+84	Exotic Hong Kong	279045	C	0	12884	1000	2052
+85	Images of Turkey	166014	C	0	12885	1000	1913
+86	Jersey Channel Islands	286018	R	1	12386	399	2151
+87	Ireland	17033	C	0	12887	1000	1865
+88	Jersey Channel Islands	286018	R	1	12388	443	1910
+89	Soldiers	170015	C	0	12889	1000	2018
+90	Jersey Channel Islands	286018	R	1	12390	360	2185
+91	Bali, Indonesia	83062	C	0	12891	1000	1870
+92	Jersey Channel Islands	286018	R	1	12392	415	1863
+93	Jersey Channel Islands	286018	R	1	12393	492	1909
+94	Jersey Channel Islands	286018	R	1	12394	425	1876
+95	France	116058	C	0	12895	1000	2031
+96	Jersey Channel Islands	286018	R	1	12396	431	2000
+97	Jersey Channel Islands	286018	R	1	12397	414	1915
+98	Jersey Channel Islands	286018	R	1	12398	346	1863
+99	Great Silk Road	98056	C	0	12899	1000	2044
+100	Jersey Channel Islands	286018	R	1	12400	511	2096

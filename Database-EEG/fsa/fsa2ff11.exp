@@ -1,0 +1,108 @@
+fileName	fsa2FF11
+subjectName	
+date	8/3/1999
+time	9:58
+
+Intertrial Duration	300  ms
+Image Presentation	30  ms
+Max Response Duration	1000  ms
+1	Austria	126052	C	0	12801	1000	1802
+2	Cities of Italy	111029	C	0	12802	1000	1817
+3	Industry & Transportation	250059	R	1	12303	497	2145
+4	Industry & Transportation	250059	R	1	12304	390	1882
+5	Japan II	65178	C	0	12805	1000	1910
+6	Decorated pumpkins	234009	C	0	12806	1000	2069
+7	Industry & Transportation	250059	R	1	12307	423	1928
+8	Exotic Hong Kong	279002	C	0	12808	1000	1865
+9	Industry & Transportation	250059	R	1	12309	386	1949
+10	Industry & Transportation	250069	C	0	12810	1000	1971
+11	Japanese Gardens	334055	C	0	12811	1000	1833
+12	Industry & Transportation	250059	R	1	12312	447	1990
+13	Mountains of America	2097	C	0	12813	1000	1829
+14	Industry & Transportation	250059	R	1	12314	457	2137
+15	Greece	67031	C	0	12815	1000	1824
+16	Images of Turkey	166085	C	0	12816	1000	1918
+17	Industry & Transportation	250059	R	1	12317	526	2167
+18	Industry & Transportation	250059	R	1	12318	427	1948
+19	Commercial Constructions	63085	C	0	12819	1000	2110
+20	Commercial Constructions	63079	C	0	12820	1000	1932
+21	Caves	194064	C	0	12821	1000	2080
+22	Industry & Transportation	250059	R	1	12322	505	2138
+23	Industry & Transportation	250059	R	1	12323	381	2088
+24	Construction	237058	C	0	12824	1000	1923
+25	Desserts	297084	C	0	12825	1000	1866
+26	Industry & Transportation	250059	R	1	12326	433	1932
+27	Flowers Close-Up	221027	C	0	12827	1000	1987
+28	Industry & Transportation	250059	R	1	12328	515	1899
+29	Industry & Transportation	250059	R	1	12329	423	2131
+30	Industry & Transportation	250059	R	1	12330	406	1912
+31	Orchids of the World	115017	C	0	12831	1000	1994
+32	Industry & Transportation	250059	R	1	12332	354	1866
+33	Industry & Transportation	250059	R	1	12333	356	2150
+34	Autumn	150068	C	0	12834	1000	1915
+35	Images of the death valley	143061	C	0	12835	1000	2110
+36	Greece	67050	C	0	12836	1000	2191
+37	Industry & Transportation	250059	R	1	12337	394	1998
+38	Prague	248000	C	0	12838	1000	2156
+39	Industry & Transportation	250059	R	1	12339	465	2131
+40	Industry & Transportation	250059	R	1	12340	429	1809
+41	Flowers	13097	C	0	12841	1000	1857
+42	Industry & Transportation	250059	R	1	12342	411	1858
+43	Images of the death valley	143055	C	0	12843	1000	2001
+44	Industry & Transportation	250059	R	1	12344	404	1809
+45	Cities of Italy	111077	C	0	12845	1000	2038
+46	Japanese Gardens	334062	C	0	12846	1000	1804
+47	Industry & Transportation	250059	R	1	12347	409	2110
+48	Industry & Transportation	250059	R	1	12348	499	2061
+49	Industry & Transportation	250059	R	1	12349	453	2109
+50	Industry & Transportation	250059	R	1	12350	404	2084
+51	Industry & Transportation	250059	R	1	12351	359	2023
+52	Southeast Asia	76016	C	0	12852	1000	1883
+53	Construction	237098	C	0	12853	1000	2073
+54	California Parks	50096	C	0	12854	1000	2038
+55	Industry & Transportation	250059	R	1	12355	361	2183
+56	Industry & Transportation	250059	R	1	12356	415	2058
+57	Fungi	208009	C	0	12857	1000	2200
+58	Images of the death valley	143025	C	0	12858	1000	1898
+59	Industry & Transportation	250059	R	1	12359	416	2071
+60	Industry & Transportation	250059	R	1	12360	423	1919
+61	Industry & Transportation	250059	R	1	12361	336	1835
+62	Industry & Transportation	250059	R	1	12362	351	2113
+63	Industry & Transportation	250059	R	1	12363	401	1999
+64	English Country Gardens	131037	C	0	12864	1000	2153
+65	Beaches	384085	C	0	12865	1000	2004
+66	Ski Scenes	61005	C	0	12866	1000	2030
+67	Rural England	374081	C	0	12867	1000	2182
+68	Industry & Transportation	250059	R	1	12368	507	2074
+69	Scotland	92010	C	0	12869	1000	1936
+70	San Francisco	82010	C	0	12870	1000	1804
+71	Finland	78022	C	0	12871	1000	2083
+72	Industry & Transportation	250059	R	1	12372	382	2196
+73	Industry & Transportation	250059	R	1	12373	385	2111
+74	Oregon	86048	C	0	12874	1000	2100
+75	Industry & Transportation	250059	R	1	12375	398	1880
+76	Monaco	146026	C	0	12876	1000	1858
+77	Industry & Transportation	250059	R	1	12377	437	2166
+78	Industry & Transportation	250059	R	1	12378	328	2114
+79	Fungi	208019	C	0	12879	1000	2036
+80	Industry & Transportation	250059	R	1	12380	524	2146
+81	Industry & Transportation	250059	R	1	12381	401	2076
+82	Industry & Transportation	250059	R	1	12382	376	1916
+83	Industry & Transportation	250059	R	1	12383	404	1838
+84	Industry & Transportation	250059	R	1	12384	356	2052
+85	Industry & Transportation	250059	R	1	12385	323	1913
+86	Historic Virginia	261031	C	0	12886	1000	2151
+87	Industry & Transportation	250059	R	1	12387	421	1865
+88	Industry & Transportation	250059	R	1	12388	404	1910
+89	Denmark	121053	C	0	12889	1000	2018
+90	Denmark	121042	C	0	12890	1000	2185
+91	Decorated pumpkins	234077	C	0	12891	1000	1875
+92	Images of the death valley	143083	C	0	12892	1000	1863
+93	Industry & Transportation	250059	R	1	12393	327	1908
+94	Washington state	266054	C	0	12894	1000	1871
+95	Finland	78004	C	0	12895	1000	2031
+96	Industry & Transportation	250059	R	1	12396	411	2000
+97	Caves	194040	C	0	12897	1000	1915
+98	France	116016	C	0	12898	1000	1863
+99	Industry & Transportation	250059	R	1	12399	449	2044
+100	Caves	194082	C	0	12900	1000	2096
